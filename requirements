@@ -1,0 +1,4 @@
+pycparser==2.20
+pythonnet==2.5.1
+robotframework==3.2.2
+robotframework-whitelibrary==1.6.0
